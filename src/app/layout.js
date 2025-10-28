@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata = {
-  title: 'Zennial-Pro',
-  description: 'Zennial-Pro',
+  title: 'event-management',
+  description: 'event-management',
 }
 
 export default function RootLayout({ children }) {
